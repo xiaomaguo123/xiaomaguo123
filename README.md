@@ -1,54 +1,47 @@
-# Hi there, I'm Guorui Ma 👋
-
-### 🥇 Kaggle Achievements
-![Kaggle Rank](https://img.shields.io/badge/Kaggle-Master-gold?style=for-the-badge&logo=kaggle) 
-![Competitions](https://img.shields.io/badge/Competitions-2%20Gold%20|%203%20Silver-blue?style=for-the-badge&logo=kaggle)
-![Highest Rank](https://img.shields.io/badge/Highest%20Rank-Top%201%25-success?style=for-the-badge)
-
-> **Kaggle Profile:** [kaggle.com/your-username](https://www.kaggle.com/your-username)
+# Hi, I'm Guorui Ma 👋
+**Data Scientist | Machine Learning Engineer | Kaggle [Your Rank, e.g., Master]**
 
 ---
 
-### 🏆 Competition Highlights
+### 🎯 Domains of Expertise
+* **Computer Vision:** Image Classification, Object Detection, Medical Imaging (DICOM), and OCR.
+* **Natural Language Processing:** LLM Fine-tuning (LoRA/QLoRA), RAG Pipelines, Sentiment Analysis, and NER.
+---
 
-| Award | Competition & Domain | Category | Key Techniques |
+### 🏆 Kaggle Competition Highlights
+
+| Award | Domain | Competition & Goal | Key Contribution |
 | :--- | :--- | :--- | :--- |
-| 🥇 **Gold (X/Total)** | **[Comp Name]** <br> *Computer Vision* | Instance Segmentation | Mask R-CNN, Swin Transformer, TTA |
-| 🥈 **Silver (X/Total)** | **[Comp Name]** <br> *NLP* | Text Classification | DeBERTa-v3, Pseudo-labeling, LLM |
-| 🥉 **Bronze (X/Total)** | **[Comp Name]** <br> *Tabular* | Time Series Forecasting | LightGBM, Feature Engineering, GRU |
+| 🥇 **Gold (Top 1%)** | **NLP** | [Comp Name]: Extracting insights from X data | DeBERTa-v3 ensemble with Pseudo-labeling |
+| 🥈 **Silver (Top 5%)** | **Computer Vision** | [Comp Name]: Identifying X in satellite imagery | U-Net with EfficientNet backbone & TTA |
+| 🥉 **Bronze (Top 10%)** | **Time Series** | [Comp Name]: Store Sales Forecasting | Custom Cross-Validation & Lag Features |
 
 ---
 
-### 🔍 Specialized Domains
+### 🚀 Featured Kaggle Projects
 
-* **Computer Vision (CV):** Object Detection, Image Segmentation, Medical Imaging (DICOM).
-* **Natural Language Processing (NLP):** Transformer-based models, Sentiment Analysis, LLM Fine-tuning.
-* **Tabular & Time Series:** Gradient Boosting Machines (XGB/LGBM/CatBoost), Feature Selection, Ensembling.
+#### 🖼️ [Project Name: e.g., RSNA Medical Imaging]
+* **Field:** Computer Vision / Healthcare
+* **Achievement:** **Top 15 / 1000+ (Gold Medal 🥇)**
+* **Key Tech:** PyTorch, Monai, 3D-CNN, Weighted Box Fusion.
+* **Challenge:** Solved the problem of extremely imbalanced medical classes using Focal Loss and specialized data augmentation.
 
----
-
-### 🚀 Selected Competition Repositories
-
-#### 🧬 [Cell Segmentation Challenge](Link-to-repo)
-* **Domain:** Bioinformatics / Computer Vision
-* **Rank:** 15th / 1,500 (Gold Medal 🥇)
-* **Summary:** Developed a robust pipeline for cell nuclei detection using an ensemble of Unet++ and EfficientNet backbones. Successfully handled noisy labels through custom Loss functions.
-
-#### 📈 [Store Sales Forecasting](Link-to-repo)
-* **Domain:** Retail / Time Series
-* **Rank:** Top 2% (Silver Medal 🥈)
-* **Summary:** Implemented a multi-stage forecasting model. Leveraged external weather and holiday data to reduce RMSE by 15%.
+#### 📊 [Project Name: e.g., American Express Default Prediction]
+* **Field:** Tabular / Finance
+* **Achievement:** **Silver Medal 🥈**
+* **Key Tech:** LightGBM, Dask, Feature Engineering.
+* **Challenge:** Handled 50GB+ of data by optimizing memory usage and engineering over 500+ temporal features.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python, R, SQL
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace
-- **Tools:** Docker, WandB (Experiment Tracking), Git, AWS/GCP
+### 🛠️ Technical Toolbox
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- **DL Frameworks:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- **Data Science:** Scikit-learn, Pandas, NumPy, Optuna (Hyperparameter Tuning)
+- **Platform:** Kaggle, Colab, GCP, AWS
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 📈 Stats & Connectivity
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](your-linkedin-link)
