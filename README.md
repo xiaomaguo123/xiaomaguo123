@@ -1,4 +1,4 @@
-# Hi there, I'm [Guorui Ma] 👋
+# Hi there, I'm Guorui Ma 👋
 
 ### 🥇 Kaggle Achievements
 ![Kaggle Rank](https://img.shields.io/badge/Kaggle-Master-gold?style=for-the-badge&logo=kaggle) 
